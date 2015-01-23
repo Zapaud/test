@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+For at gøre en almindelig mappe til et git-repository, så man kan få version-control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Det er en slags buffer. Vakuum. Man kan putte ting derind som man overvejer at committe, men uden at gøre det med det samme. Så man har mulighed for at genoverveje og fjerne noget igen etc.
