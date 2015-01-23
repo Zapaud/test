@@ -1,0 +1,25 @@
+Her er noget tekst.
+Bum bum bum.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Det er mere besværligt at udvikle et versionstyringssystem, der kan tracke flere ad gangen.
+Og - vigtigere - så er det heller ikke altid nødvendigt med den funktion.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Se liste over egne lognotater over ændringer + detaljeret forskelle på to commits.
+
+HUSK: git checkout betyder RESTORE. Som i checkout en tidligere commit (udgave af en fil). Altså IKKE det samme som en Subversion checkout, hvor hele repositoriet kopieres. Man kan fx bruge en git checkout til at køre tidligere udgaver af ens koder (program).
+
+How might using version control make you more confident to make changes that could break something?
+
+Hvis man ved man altid kan ændre det tilbage, er det en gratis omgang, der giver frihed til eksperimenteren.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Je ne sais pas
