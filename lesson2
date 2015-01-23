@@ -5,3 +5,11 @@ For at gøre en almindelig mappe til et git-repository, så man kan få version-
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Det er en slags buffer. Vakuum. Man kan putte ting derind som man overvejer at committe, men uden at gøre det med det samme. Så man har mulighed for at genoverveje og fjerne noget igen etc.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Putte dem i staging med det samme efter en ændring?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Hvis man vil lave flere udgaver af den samme software. Fx en let og en svær udgave af et spil. Eller et program, der både skal virke på Mac, Windows og Linux.
