@@ -1,3 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Hvis man vil dele med andre.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Det er ikke sikkert, at man er interesseret i alle nye ændringer - særligt ikke hvis man arbejder sammen med flere.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+En branch er en ny gren i projektet, fx en experimental version. 
+En clone er en kopi af hele projektet inklusiv logfiler på egen computer eller mellem egen computer og github.
+En fork er githubs navn for en kopi af et projekt, der kun ligger på githubs computere.
